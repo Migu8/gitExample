@@ -1,0 +1,3 @@
+Name: Miguel Ironhacker
+Age: 27
+Favorite color: Black
